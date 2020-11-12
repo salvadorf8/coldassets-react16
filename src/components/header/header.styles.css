@@ -1,0 +1,11 @@
+.navlink {
+    color: #fff;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding: 0.5rem 0.5rem;
+    display: block;
+}
+
+.navlink:hover {
+    color: rgb(196, 194, 194);
+}
